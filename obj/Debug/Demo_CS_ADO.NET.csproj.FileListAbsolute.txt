@@ -1,0 +1,10 @@
+C:\Example\Demo_CS_ADO.NET\bin\Debug\Demo_CS_ADO.NET.exe.config
+C:\Example\Demo_CS_ADO.NET\bin\Debug\Demo_CS_ADO.NET.exe
+C:\Example\Demo_CS_ADO.NET\bin\Debug\Demo_CS_ADO.NET.pdb
+C:\Example\Demo_CS_ADO.NET\obj\Debug\Demo_CS_ADO.NET.Form1.resources
+C:\Example\Demo_CS_ADO.NET\obj\Debug\Demo_CS_ADO.NET.Properties.Resources.resources
+C:\Example\Demo_CS_ADO.NET\obj\Debug\Demo_CS_ADO.NET.csproj.GenerateResource.cache
+C:\Example\Demo_CS_ADO.NET\obj\Debug\Demo_CS_ADO.NET.csproj.CoreCompileInputs.cache
+C:\Example\Demo_CS_ADO.NET\obj\Debug\Demo_CS_ADO.NET.exe
+C:\Example\Demo_CS_ADO.NET\obj\Debug\Demo_CS_ADO.NET.pdb
+C:\Example\Demo_CS_ADO.NET\obj\Debug\Demo_CS_ADO.NET.csprojAssemblyReference.cache
